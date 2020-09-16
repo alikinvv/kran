@@ -999,8 +999,8 @@ table tr td:last-child {
     background-size: 14%;
   }
   .main-slider .title-info {
-    bottom: 58% !important;
-    right: 15% !important;
+    bottom: 56% !important;
+    right: 160px !important;
   }
   .main-slider .diagonal {
     left: 37% !important;
